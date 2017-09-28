@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\Programme\AntMe\AntMe.exe</StartProgram>
+    <StartArguments>/file="D:\Dropbox\epro\6.Semester\ISY\AntMe\AntMe2\Test123\bin\AntMe.Player.Test123.dll"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\Programme\AntMe\AntMe.exe</StartProgram>
+    <StartArguments>/file="C:\Users\Marvin\Downloads\winfo2016\AntMeWinnerTeam2017\ParaponeraClavata\bin\AntMe.MikelBomball_MarvinHollmann.ParaponeraClavata.dll"</StartArguments>
+  </PropertyGroup>
+</Project>
